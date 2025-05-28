@@ -1,10 +1,10 @@
 import pandas as pd
 from odf.opendocument import load
 from odf.text import P
-from odf.table import Table, TableRow, TableCell  # Adicione TableRow
+from odf.table import Table, TableRow, TableCell  
 
 # 1. Carregar o arquivo .ods
-caminho_planilha = "Fundos_imobiliarios.ods"  # Substitua pelo seu caminho
+caminho_planilha = "Fundos_imobiliarios.ods"  
 doc = load(caminho_planilha)
 
 # 2. Listar todas as abas
