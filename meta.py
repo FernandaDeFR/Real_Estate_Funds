@@ -1,6 +1,5 @@
 import pandas as pd
 import matplotlib.pyplot as plt
-print(plt.style.available)
 
 # Dividend Yield configuration for each asset
 dy_por_ativo = {
