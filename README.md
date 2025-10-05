@@ -44,7 +44,7 @@ This project requires Python 3.x and the following libraries.
 
 ## 🤝 Contribution
 
-We welcome contributions to enhance data sources, improve calculation efficiency, or add new visualization options! Please feel free to open an issue or submit a pull request.
+I welcome contributions to enhance data sources, improve calculation efficiency, or add new visualization options! Please feel free to open an issue or submit a pull request.
 
 ## 📄 License
 
