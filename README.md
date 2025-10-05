@@ -37,10 +37,13 @@ This project requires Python 3.x and the following libraries.
 1.  **Data Source:** Ensure your raw data (e.g., a `.csv` or `.xlsx` file containing FII information) is placed in the project root directory (or a specified `/data` folder).
 2.  **Execute the main script:**
     ```bash
-    python main_analysis.py
+    python fii.py
     ```
-    *(**Note:** Replace `main_analysis.py` with the actual name of your primary Python script.)*
-3.  **Output:** The script will output the processed data and generated reports (e.g., `.csv` files or visualizations) to the designated output folder.
+3.  **Execute the second script:**
+    ```bash
+    python meta.py
+    ```
+4.  **Output:** The script will output the processed data and generated reports (e.g., `.csv` files or visualizations) to the designated output folder.
 
 ## 🤝 Contribution
 
