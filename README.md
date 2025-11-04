@@ -28,11 +28,10 @@ This project requires Python 3.x and the following libraries.
     ```
 3.  **Install dependencies:**
     ```bash
-    pip install pandas numpy matplotlib [any-other-library-you-use]
+    pip install pandas numpy matplotlib
     ```
-    *(**Note:** Replace `[any-other-library-you-use]` with any other specific library, like `requests` or `scipy`, if needed.)*
 
-## 💡 How to Run the Analysis
+    ## 💡 How to Run the Analysis
 
 1.  **Data Source:** Ensure your raw data (e.g., a `.csv` or `.xlsx` file containing FII information) is placed in the project root directory (or a specified `/data` folder).
 2.  **Execute the main script:**
