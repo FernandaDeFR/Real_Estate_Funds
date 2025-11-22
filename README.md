@@ -1,12 +1,12 @@
-# 📊 Real Estate Funds (FIIs) Data Analysis Toolkit
+# Real Estate Funds (FIIs) Data Analysis Toolkit
 
-## 🚀 Overview
+## Overview
 
 This repository hosts a set of **Python scripts** designed for data analysis, calculation, and reporting on Brazilian Real Estate Investment Funds (FIIs) traded on the B3.
 
 The primary goal of this project is to automate the analysis of FII performance indicators, dividend yields, and price data, transforming raw financial information into actionable investment metrics.
 
-## ✨ Key Features
+## Key Features
 
 * **Data Processing:** Python script to handle and clean large datasets containing historical data for FIIs.
 * **Metric Calculation:** Calculates essential financial metrics, including dividend yield, P/VP (Price to Book Value), and historical price variations.
@@ -14,7 +14,7 @@ The primary goal of this project is to automate the analysis of FII performance 
 * **Summary Reporting:** Generates structured reports and data summaries for quick evaluation of multiple funds.
 * **Visualization:** Uses data visualization libraries to plot trends and compare performance over time.
 
-## 🛠️ Requirements and Setup
+## Requirements and Setup
 
 This project requires Python 3.x and the following libraries.
 
@@ -31,7 +31,7 @@ This project requires Python 3.x and the following libraries.
     pip install pandas numpy matplotlib
     ```
 
-    ## 💡 How to Run the Analysis
+    ## How to Run the Analysis
 
 1.  **Data Source:** Ensure your raw data (e.g., a `.csv` or `.xlsx` file containing FII information) is placed in the project root directory (or a specified `/data` folder).
 2.  **Execute the main script:**
@@ -44,15 +44,15 @@ This project requires Python 3.x and the following libraries.
     ```
 4.  **Output:** The script will output the processed data and generated reports (e.g., `.csv` files or visualizations) to the designated output folder.
 
-## 🤝 Contribution
+## Contribution
 
 I welcome contributions to enhance data sources, improve calculation efficiency, or add new visualization options! Please feel free to open an issue or submit a pull request.
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👩‍💻 Developer
+## Developer
 
 **Fernanda de Faria Rodrigues**
 * **GitHub:** [@FernandaDeFR](https://github.com/FernandaDeFR)
